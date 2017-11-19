@@ -5,7 +5,7 @@
     android:id="@+id/root_list_activity"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.demo.resyclerview.demoresycler.ListActivity">
+    tools:context="com.demo.resyclerview.demoresycler.view.ListActivity">
 
     <android.support.v7.widget.RecyclerView
         android:id="@+id/rv_list_activity"

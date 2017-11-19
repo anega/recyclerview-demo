@@ -1,4 +1,4 @@
-package com.demo.resyclerview.demoresycler;
+package com.demo.resyclerview.demoresycler.view;
 
 import android.support.v7.app.AppCompatActivity;
 
